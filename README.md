@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**VladVertehel/VladVertehel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VladVertehel/VladVertehel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...vladvertegel@gmail.com
 - 😄 Pronouns: ...pronouns
 - ⚡ Fun fact: ...i love metal music
--->
+
